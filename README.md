@@ -5,13 +5,11 @@ This is a fun and interactive Cookie Clicker Game where players can click on a c
 🚀 Features
 Click to earn cookies
 Score tracking
-Upgrade system (if implemented)
+Upgrade system
 Simple and responsive UI
 🛠 Technologies Used
-HTML, CSS, JavaScript
-(Optional) Canvas API for animations
-(Optional) LocalStorage to save progress
+HTML, CSS
 📌 How to Play
 Click on the cookie to earn points 🍪
-Use earned cookies to buy upgrades (if available)
+Use earned cookies to buy upgrades
 Keep clicking and become the ultimate cookie tycoon!
